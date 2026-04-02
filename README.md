@@ -6,11 +6,9 @@ OPC Hub is a discovery platform for **one-person companies** — independent dev
 
 ---
 
-## 🏠 Homepage
+## 🏠 Preview
 
-![OPC Hub Homepage](images/homepage.png)
-
-## 📋 Features
+![OPC Hub Preview](images/homepage.png)
 
 - **Company Profiles** — Create a detailed profile for your one-person company: services, skills, tags, and portfolio
 - **Smart Discovery** — Browse and search OPCs by category, tag, language, and keyword
@@ -20,10 +18,6 @@ OPC Hub is a discovery platform for **one-person companies** — independent dev
 - **JWT Authentication** — Stateless, secure auth powered by [jose](https://github.com/panva/jose)
 - **i18n** — Full Chinese & English support
 - **Dashboard** — Track profile views and contact clicks
-
-## 🔍 Browse OPCs
-
-![Browse OPCs](images/browse.png)
 
 ## 🛠 Tech Stack
 
