@@ -19,15 +19,6 @@ OPC Hub is a discovery platform for **one-person companies** — independent dev
 - **i18n** — Full Chinese & English support
 - **Dashboard** — Track profile views and contact clicks
 
-## 🛠 Tech Stack
-
-- **Next.js 14** (App Router, Standalone output)
-- **TypeScript** + **Prisma** (SQLite)
-- **Tailwind CSS** — Clean, modern white theme
-- **next-intl** — Internationalization
-- **Resend** — Transactional email
-- **Zod** — Request validation
-
 ## 📬 Contact
 
 Have questions or want to list your company? Visit [opchub.market](https://opchub.market) to get started.
